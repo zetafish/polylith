@@ -29,6 +29,7 @@
                                 "components/workspace-clj/src"
                                 "components/ws-explorer/src"
                                 "components/ws-file/src"
+                                "components/foobar/src"
                                 "bases/poly-cli/src"]
 
                   :extra-deps {org.clojure/clojure {:mvn/version "1.10.3"}
@@ -63,6 +64,7 @@
                                  "components/workspace/test"
                                  "components/workspace-clj/test"
                                  "components/ws-explorer/test"
+                                 "components/foobar/test"
                                  "bases/poly-cli/test"
                                  "projects/poly/test"]}
 
